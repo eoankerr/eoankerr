@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eoankerr aka @eoan
-- You always get what you always got, if you always do what you always did.
+- If you always do what you've always done, you'll always get what you always got!
 
 <!---
 eoankerr/eoankerr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
